@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-BSc student in Information Technology and Econometrics at AGH
+BSc student in Information Technology and Econometrics at AGH University of Science and Technology
 
 Software Developer focused on building robust Backend Systems and scalable applications, with a strong analytical foundation in mathematical modeling
 
