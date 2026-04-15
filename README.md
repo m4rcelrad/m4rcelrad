@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-BSc student in Information Technology and Econometrics at AGH University of Science and Technology
+**BSc student in Information Technology and Econometrics at AGH University of Science and Technology**
 
-Software Developer focused on building robust Backend Systems and scalable applications, with a strong analytical foundation in mathematical modeling
+Passionate Software Developer specializing in building **scalable backend systems** and **robust full-stack applications**. I bridge the gap between high-level mathematical modeling and production-ready code, combining strong problem-solving skills with a solid analytical foundation.
+
+---
 
 ## Tech Stack
 
 **Languages:**
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,c,r,matlab)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,cpp,r,matlab,typescript,html,css)
 
 **Frameworks & Databases:**
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,sqlserver,sqlite,qt)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,nextjs,react,sqlserver,postgresql,sqlite,qt)
 
-**Tools & Environment:**
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=github,ubuntu,powershell,cmake,anaconda,unity)
-
-**Development Environment:**
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,rider,pycharm,clion,vscode)
+**Tools & Infrastructure:**
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=github,githubactions,docker,ubuntu,cmake,powershell)
