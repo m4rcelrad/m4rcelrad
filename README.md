@@ -9,7 +9,7 @@ Passionate Software Developer specializing in building **scalable backend system
 ## Tech Stack
 
 **Languages:**
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,cpp,r,matlab,typescript,html,css)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,c,r,matlab,typescript,html)
 
 **Frameworks & Databases:**
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,nextjs,react,sqlserver,postgresql,sqlite,qt)
