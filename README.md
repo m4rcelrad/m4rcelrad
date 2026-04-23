@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-###
-
 <h3 align="center">BSc student in Information Technology and Econometrics at AGH University of Science and Technology</h3>
 
-###
+---
+
+<h3 align="center">Expertise</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
@@ -22,11 +22,9 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
 </div>
 
-###
+---
 
-<h3 align="center">Technologies I have worked with</h3>
-
-###
+<h3 align="center">Toolbox</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dotnet logo" />
